@@ -1,4 +1,4 @@
-Product Recommendation System:
+Vector-Based Product Recommendation System with RAG
 
 In today’s fast-paced e-commerce world, personalized product recommenda-
 tions are key to enhancing customer experience. Our project focused on de-
